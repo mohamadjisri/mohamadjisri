@@ -37,8 +37,8 @@ I’m a passionate developer with experience in **Python, Flask, PyTorch, JavaSc
 ---
 
 ## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-jisri-a6354b135/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=github&logoColor=white)](mohamadjisri.github.io/Portfolio/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamadjisri)  
 
 💡 *I’m always open to learning, collaborating, and exploring new opportunities!* 🚀
